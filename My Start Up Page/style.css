@@ -1,0 +1,48 @@
+
+  
+
+
+body {
+    background-image: url(sun.png);
+    background-size: cover;
+
+}
+
+.startup {
+    text-align: center;
+}
+h1 {
+    color: white;
+    background-color: blueviolet;
+    display: inline; 
+    font-family:  Arial, sans-serif;
+    font-size: 50px;
+   
+}
+
+.btn {
+    margin-top: 450px;
+    margin-left: 500px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 300px;
+    font-family: sans-serif;
+   
+  }
+  
+  .btn-xl {
+    padding: 1rem 2rem; 
+  }
+  
+  .btn-primary {
+    background-color: #F05F44;
+    border-color: #F05F44; }
+  
+  .btn-primary:hover {
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 5px;
+    cursor: pointer;
+  }
+    
